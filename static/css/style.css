@@ -14,3 +14,29 @@
     flex-direction: column;
     justify-content: space-between;
 }
+#menu{
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    text-align: center;
+}
+#menu li a{
+    text-decoration: none;
+    margin-left: 65px;
+}
+.menulist{
+    font-size: 32px;
+    font-family: 'Oswald';
+    color: white;
+  }
+  #header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 65px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.hidden{
+    display: none;
+}
