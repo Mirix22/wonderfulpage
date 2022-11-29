@@ -90,3 +90,14 @@
   font-family: 'Oswald';
   color: white;
 }
+footer{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 50px;
+  }
+  #mid{
+    margin-right: 35px;
+    margin-left: 35px;
+  }
